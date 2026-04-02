@@ -30,7 +30,7 @@ void *worker(void*arg){
 
 int main(int argc, char*argv[]){
     if(argc!=3){
-        printf("Usage: %s N P\n",argv[0]);
+        printf("Usage: %s <N> <P>\n",argv[0]);
         return 1;
     }
     N = atoi(argv[1]);
