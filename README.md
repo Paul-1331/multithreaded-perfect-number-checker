@@ -106,6 +106,9 @@ Output: 10 is NOT a Perfect Number
 B240266CS_A2.c   → Source code
 B240266CS.pdf    → Design Document
 README.md        → Execution Steps
+B240266CS_1.png  → Successful cases for Perfect Numbers
+B240266CS_2.png  → Successful cases for Non Perfect Numbers
+B240266CS_3.png  → Failure cases
 ```
 
 ---
